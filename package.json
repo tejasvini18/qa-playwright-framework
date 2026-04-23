@@ -1,0 +1,24 @@
+{
+  "name": "qa-playwright-framework",
+  "version": "1.0.0",
+  "description": "Playwright automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasvini18/qa-playwright-framework.git"
+  },
+  "keywords": [],
+  "author": "Tejasvini Patel",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tejasvini18/qa-playwright-framework/issues"
+  },
+  "homepage": "https://github.com/tejasvini18/qa-playwright-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}

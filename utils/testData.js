@@ -1,0 +1,12 @@
+const testData = {
+  validUser: {
+    username: 'standard_user',
+    password: 'secret_sauce'
+  },
+  invalidUser: {
+    username: 'locked_user',
+    password: 'wrong_password'
+  }
+};
+
+module.exports = { testData };
